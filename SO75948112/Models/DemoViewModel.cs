@@ -2,6 +2,6 @@
 {
     public class DemoViewModel
     {
-        public List<int> SelectedCities { get; set; } = default!;
+        public List<int> SelectedFruit { get; set; } = default!;
     }
 }
